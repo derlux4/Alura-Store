@@ -41,22 +41,30 @@ El flujo de trabajo se gestionó mediante un tablero de Trello para garantizar e
 ├── visualizations/     # Gráficos obtenidos del análisis
 ├── requirements.txt    # Librerías necesarias
 └── README.md           # Documentación del proyecto
+```
 
+## Visualizaciones destacadas
+* **Distribución de Ventas**: Análisis de volumen por categoría, donde Muebles y Electrónicos destacan como los pilares de ingresos.
 
-Visualizaciones destacadas
-Distribución de Ventas: Análisis de volumen por categoría, donde Muebles y Electrónicos destacan como los pilares de ingresos.
-Valoración del Cliente: Comparativa de satisfacción, mostrando una estandarización sólida del servicio en todas las sucursales.
-Eficiencia Logística: Gráfico de costos de envío que identifica las brechas operativas entre las tiendas.
+  <img width="1392" height="790" alt="image" src="https://github.com/user-attachments/assets/1f8ba477-dafb-465e-b819-934e6500d6cb" />
 
-Principales Insights
-Dominio de Inventario: Los Muebles lideran el volumen de ventas en la red.
-Eficiencia en Tienda 4: Es la sucursal con el envío más económico, logrando un ahorro operativo frente a la Tienda 1.
-Consistencia de Servicio: La variación en la satisfacción del cliente entre la tienda mejor y peor valorada es mínima (aprox. 0.07 pts).
+* **Valoración del Cliente**: Comparativa de satisfacción, mostrando una estandarización sólida del servicio en todas las sucursales.
 
-##Recomendación final
+<img width="833" height="549" alt="image" src="https://github.com/user-attachments/assets/0e598c0f-5aac-489a-9c65-0ef88fe76ef7" />
+
+* **Eficiencia Logística**: Gráfico de costos de envío que identifica las brechas operativas entre las tiendas.
+
+<img width="868" height="549" alt="image" src="https://github.com/user-attachments/assets/b623557b-a165-4d04-9bff-21b2f6e3ed16" />
+
+## Principales Insights
+* **Dominio de Inventario**: Los Muebles lideran el volumen de ventas en la red.
+* **Eficiencia en Tienda 4**: Es la sucursal con el envío más económico, logrando un ahorro operativo frente a la Tienda 1.
+* **Consistencia de Servicio**: La variación en la satisfacción del cliente entre la tienda mejor y peor valorada es mínima (aprox. 0.07 pts).
+
+## Recomendación final
 Tras el análisis, se recomienda la venta de la Tienda 1.
 Aunque factura el mayor volumen bruto, presenta ineficiencias logísticas críticas (costo de envío promedio de $26,018.61) y la calificación de satisfacción más baja de la red (3.98). Vender este activo permite capitalizar su alto valor comercial mientras se concentra la gestión en tiendas con márgenes logísticos más sanos.
 
-Contacto
-👤 Nombre: Luis Rodriguez
-📧 Correo: ljrodrigueze@gmail.com
+## Contacto
+👤 **Nombre**: Luis Rodriguez
+📧 **Correo**: ljrodrigueze@gmail.com
